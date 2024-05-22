@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/pc/Downloads/codigos/mlruns/707566576803108565/22291fca2bda4de3bd2ed0be2e8e674b/artifacts
+deleted_time: 1716326986254
+end_time: 1716314800204
+entry_point_name: ''
+experiment_id: '707566576803108565'
+lifecycle_stage: deleted
+run_id: 22291fca2bda4de3bd2ed0be2e8e674b
+run_name: LinearRegression
+run_uuid: 22291fca2bda4de3bd2ed0be2e8e674b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716314800081
+status: 4
+tags: []
+user_id: pc

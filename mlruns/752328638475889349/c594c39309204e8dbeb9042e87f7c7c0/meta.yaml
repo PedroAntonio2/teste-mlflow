@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/pc/Downloads/codigos/mlruns/752328638475889349/c594c39309204e8dbeb9042e87f7c7c0/artifacts
+deleted_time: 1716317967806
+end_time: 1716317223123
+entry_point_name: ''
+experiment_id: '752328638475889349'
+lifecycle_stage: deleted
+run_id: c594c39309204e8dbeb9042e87f7c7c0
+run_name: AMI
+run_uuid: c594c39309204e8dbeb9042e87f7c7c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716317219671
+status: 4
+tags: []
+user_id: pc
